@@ -8,7 +8,7 @@ I'm Alaa El Bouhdidi, a young technical enthusiast who does web development, sec
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with web apps
 - 💬 Ask me about the projects and language I've practiced
-- 📫 How to reach me: alaaelbouhdidi@gmail.com
+- 📫 How to reach me: aelbouhdidi@gmail.com
 - ⚡ Fun fact: I have a Bachelor degree and am about to finish my second one
 - 🌱 I’m currently learning more about ReactJS and PWA
 - 😄 Pronouns: He/His/Him
