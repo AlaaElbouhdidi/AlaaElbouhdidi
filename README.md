@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/Him
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaaelbouhdidi&show_icons=true&locale=en&layout=compact" alt="alaaelbouhdidi" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaaelbouhdidi)](https://github.com/anuraghazra/github-readme-stats)
 
